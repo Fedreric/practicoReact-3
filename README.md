@@ -1,17 +1,17 @@
-# Trabajo practico N°1: React - Hello + props!
+# Trabajo practico N°1: React - Hello + props + state!
 
 ![React](https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg)
 
-Ejercicio 2 del TP N°1-React: Hello + props.
-Es simplemente mostrar el titulo "Hello" en pantalla a través de un componente y concatenar "my friend!" con un prop.
+Ejercicio 3 del TP N°1-React: Hello + props + state.
+Es simplemente mostrar el titulo "Hello" en pantalla a través de un componente, concatenar "my friend!" con un prop y agregar un poco mas de texto al clikear un boton utilizando un state.
 
 
 ## Para clonar el repositorio 💻
 
 ```bash
-git clone https://github.com/Fedreric/practicoReact-2.git
+git clone https://github.com/Fedreric/practicoReact-3.git
 ```
->**EJECUTAR:** npm run dev 
+>**EJECUTAR:** 1. npm install 2.npm run dev 
 
 ## Autor 👨‍💻
  Federico Luciano Ledesma [GitHub](https://github.com/Fedreric)
