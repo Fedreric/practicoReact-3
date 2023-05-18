@@ -1,8 +1,8 @@
-const HelloWorld = () => {
+const HelloWorld = ({texto}) => {
     return (
-        <div>
-            
-        </div>
+        <section>
+            <h1>Hello {texto}</h1>
+        </section>
     );
 };
 
