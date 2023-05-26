@@ -11,7 +11,10 @@ Es simplemente mostrar el titulo "Hello" en pantalla a través de un componente,
 ```bash
 git clone https://github.com/Fedreric/practicoReact-3.git
 ```
->**EJECUTAR:** 1. npm install 2.npm run dev 
+>**EJECUTAR:** 
+- npm install
+- npm run dev 
+- https://practicoreact-3-fede39i.netlify.app/
 
 ## Autor 👨‍💻
  Federico Luciano Ledesma [GitHub](https://github.com/Fedreric)
